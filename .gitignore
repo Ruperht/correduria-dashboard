@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# IDEs
+.idea/
+.vscode/
