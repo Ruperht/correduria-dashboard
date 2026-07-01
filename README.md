@@ -3,6 +3,10 @@
 Dashboard interactivo desarrollado con Python y Streamlit que permite analizar 
 la cartera de pólizas de una correduría de seguros a partir de datos reales en CSV.
 
+## 📸 Vista previa
+
+![Dashboard Correduría de Seguros](assets/dashboard_preview.png)
+
 ## 🚀 Tecnologías
 
 - Python 3.14
@@ -43,7 +47,8 @@ válidos.
 
 ```bash
 # Instalar dependencias
-pip install -r requirements.txt
+pip install -r requirement
+s.txt
 
 # Lanzar la aplicación
 streamlit run app.py
