@@ -16,6 +16,7 @@ la cartera de pólizas de una correduría de seguros a partir de datos reales en
 
 ## 📁 Estructura del proyecto
 
+```
 correduria-dashboard/
 ├── data/
 │   └── clientes_polizas.csv   # Dataset real de la correduría
@@ -26,6 +27,7 @@ correduria-dashboard/
 │   └── charts.py              # Generación de gráficos
 ├── app.py                     # Aplicación principal
 └── requirements.txt
+```
 
 ## 📈 Funcionalidades
 
